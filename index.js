@@ -14,4 +14,4 @@ app.get('/api/users', (req, res) => {
   res.send(users);
 })
 
-app.listen(3000, () => console.log('server running at localhost:3000'));
+app.listen(4000, () => console.log('server running at localhost:4000'));
