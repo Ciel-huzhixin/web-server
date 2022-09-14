@@ -7,6 +7,7 @@ const users = [
   { username: 'huzhixin', age: 22 },
   { username: 'huqiao', age: 23 },
   { username: 'zhangying', age: 22 },
+  { username: 'linjianan', age: 25}
 ];
 
 app.get('/api/users', (req, res) => {
